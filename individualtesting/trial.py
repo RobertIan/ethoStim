@@ -174,8 +174,6 @@ class Trial:
             except KeyboardInterrupt:
                 self.safeQuit()
 
-
-
 if __name__ == '__main__':
 
     ## load in command line argumenents
